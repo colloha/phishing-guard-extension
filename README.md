@@ -1,4 +1,4 @@
-# Phishing Guard — Student Security Project
+# Phishing Guard —  Security Project
 
 A Chrome (Manifest V3) browser extension that scores web pages for phishing
 risk in real time, using two independent signals:
