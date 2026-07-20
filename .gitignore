@@ -1,0 +1,16 @@
+# Python virtual environments
+venv/
+env/
+
+# Datasets and large files
+*.csv
+training/raw_data/
+*.mbox
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
